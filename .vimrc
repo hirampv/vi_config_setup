@@ -1,5 +1,7 @@
-" Turn syntax highlighting on.
+" Turn syntax highlighting on .
 syntax on
+" If you want to manually change the color scheme type the following:
+" :colorscheme -> [space] -> Ctrl+D
 
 " Enable type file detection. Vim will be able to try to detect the type of file in use.
 filetype on
@@ -49,4 +51,3 @@ set showmatch
 
 " Use highlighting when doing a search.
 set hlsearch
-
